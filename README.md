@@ -61,11 +61,11 @@ To uncover patterns in trending videos by analyzing YouTube datasets—focusing 
 
 ## 📌 Key Insights
 
-•	Entertainment & Music dominate in visibility and average views
-•	Publishing time impacts success—midweek + mid-morning = higher views
-•	Positive & neutral sentiment boosts user interaction
-•	Viewer trust is reflected through high likes/view ratios
-•	Trending duration helps—but content quality plays a greater role
+- •	Entertainment & Music dominate in visibility and average views
+- •	Publishing time impacts success—midweek + mid-morning = higher views
+- •	Positive & neutral sentiment boosts user interaction
+- •	Viewer trust is reflected through high likes/view ratios
+- •	Trending duration helps—but content quality plays a greater role
 
 
 ---
